@@ -1,0 +1,14 @@
+{
+  "resourceName": "awsreact",
+  "policyUUID": "d10184f7",
+  "bucketName": "awsreact75b823a07287499c8d4478c59338a48a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
